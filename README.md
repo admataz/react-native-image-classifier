@@ -18,7 +18,8 @@ You will need an ios or android device with the Expo client
 The expo tools should launch from where you can build and run the example on your phone.
 
 
-![screenshot]('./screenshot.png) ![screenshot2]('./screenshot2.png)
+
+![screenshot](./screenshot.png)  ![screenshot2](./screenshot2.png)
 
 ### Further reading and links
 
